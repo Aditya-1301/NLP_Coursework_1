@@ -1,6 +1,6 @@
 # ECS763 Natural Language Processing
 
-This repository contains my solutions to Coursework 1 (Sentiment Analysis on Tweets using sci-kit-learn and NLTK) in ECS763 Natural Language Processing. I have attached the questions and hints pdf, my report, and my solutions as Jupyter notebooks and Excel files.
+This repository contains my solutions to Coursework 1 (Sentiment Analysis on Tweets using sci-kit-learn and NLTK) in ECS763 Natural Language Processing. I have attached the questions and hints pdf, my report, and my solutions as Jupyter notebooks and Excel files. The dataset used for this task is also provided in the file `sentiment-dataset.tsv`.
 
 ## Usage
 
